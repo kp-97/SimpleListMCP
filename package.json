@@ -1,0 +1,17 @@
+{
+    "name": "simple-list-mcp",
+    "version": "0.1.0",
+    "description": "SimpleListMCP — Interactive ordered and unordered list MCP desktop & web app",
+    "main": "index.js",
+    "bin": {
+        "simple-list-mcp": "./index.js"
+    },
+    "keywords": [
+        "mcp",
+        "simplelistmcp",
+        "list",
+        "ordered-list",
+        "unordered-list"
+    ],
+    "license": "MIT"
+}
